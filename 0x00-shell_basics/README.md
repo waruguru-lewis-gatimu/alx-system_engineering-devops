@@ -1,1 +1,1 @@
-copying html files
+moving uppercase files
