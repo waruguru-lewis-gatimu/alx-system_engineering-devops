@@ -1,1 +1,1 @@
-Back to home
+display in long format
