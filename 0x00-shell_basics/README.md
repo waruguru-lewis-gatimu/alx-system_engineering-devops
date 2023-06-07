@@ -1,1 +1,1 @@
-series
+magic file
