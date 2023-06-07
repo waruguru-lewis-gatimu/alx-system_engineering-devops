@@ -1,1 +1,1 @@
-boot files
+file type
