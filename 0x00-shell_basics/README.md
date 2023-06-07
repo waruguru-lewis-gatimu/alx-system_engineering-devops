@@ -1,1 +1,1 @@
-Display contents of the working directory
+Back to home
