@@ -1,1 +1,1 @@
-chmod 753
+reflecting files,chmod --reference-file file
