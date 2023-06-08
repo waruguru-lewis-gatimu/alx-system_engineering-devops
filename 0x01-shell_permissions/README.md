@@ -1,1 +1,1 @@
-change owner n grp,chown -hr
+symbollic link
