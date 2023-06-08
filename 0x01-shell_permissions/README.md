@@ -1,1 +1,1 @@
-reflecting files,chmod --reference-file file
+permision to dir,chmod -R ugo+X
