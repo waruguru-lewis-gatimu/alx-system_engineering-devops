@@ -1,1 +1,1 @@
-display the groups of current users,groups
+new owner,chown new old
