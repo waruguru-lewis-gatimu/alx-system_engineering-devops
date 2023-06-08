@@ -1,1 +1,1 @@
-changing user,su
+print username,id -un
