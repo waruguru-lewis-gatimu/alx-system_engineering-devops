@@ -1,1 +1,1 @@
-permision to all,chmod ugo+x file
+permision only to others,chmod 007 file
