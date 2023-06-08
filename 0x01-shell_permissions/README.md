@@ -1,1 +1,1 @@
-dir with permision 751,mkdir -m 751 name
+new group owner,chgrp old new
