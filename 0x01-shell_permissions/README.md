@@ -1,1 +1,1 @@
-new owner.chown old new
+creating empty file,touch
