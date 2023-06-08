@@ -1,1 +1,1 @@
-print username,id -un
+display the groups of current users,groups
