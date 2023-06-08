@@ -1,1 +1,1 @@
-grant permision to execute,chmod u+x file
+group n others chmod u+x,g+x,o+r file
