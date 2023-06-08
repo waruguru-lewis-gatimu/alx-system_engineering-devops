@@ -1,1 +1,1 @@
-new owner,chown new old
+new owner.chown old new
