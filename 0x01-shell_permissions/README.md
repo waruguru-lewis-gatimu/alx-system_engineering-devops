@@ -1,1 +1,1 @@
-permision to dir,chmod -R ugo+X
+dir with permision 751,mkdir -m 751 name
