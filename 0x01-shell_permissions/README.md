@@ -1,1 +1,1 @@
-new group owner,chgrp old new
+change owner n grp,chown -hr
