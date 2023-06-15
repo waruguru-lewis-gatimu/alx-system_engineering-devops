@@ -1,1 +1,1 @@
-display content
+content
